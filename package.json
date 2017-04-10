@@ -1,6 +1,4 @@
-"scripts": {
-  "start": "node server.js"
-}{
+{
   "name": "agency",
   "title": "Agency",
   "version": "3.3.7+1",
@@ -27,4 +25,7 @@
     "type": "git",
     "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
   }
+"scripts": {
+  "start": "node server.js"
+}
 }
