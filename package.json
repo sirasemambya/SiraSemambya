@@ -1,4 +1,6 @@
-{
+"scripts": {
+  "start": "node server.js"
+}{
   "name": "agency",
   "title": "Agency",
   "version": "3.3.7+1",
